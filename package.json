@@ -15,7 +15,7 @@
     "numeral": "^2.0.6",
     "react": "16.8.3",
     "react-apollo": "^2.5.6",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-fs": "^2.13.3",
     "redux-persist-fs-storage": "^1.2.2",
     "rn-fetch-blob": "^0.10.15"
